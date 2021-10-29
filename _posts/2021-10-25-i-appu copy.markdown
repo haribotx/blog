@@ -6,6 +6,8 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: photo-1477999440782-e1f435f8c7de.jpg # Add image post (optional)
 tags: [Blog, LiFi]
 author: botx # Add name author (optional)
+about-author: hihdhdnndjdkj I am you and u
+author-pic: post-6.jpg
 permalink: /lifi
 published: true
 ---
