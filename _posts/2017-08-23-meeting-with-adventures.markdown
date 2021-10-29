@@ -6,6 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: post-3.jpg # Add image post (optional)
 tags: [Blog, Sunset]
 author: # Add name author (optional)
+
 ---
 <h1>You're going to love this.</h1>
 
