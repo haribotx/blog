@@ -18,7 +18,7 @@ The Li-Fi innovation utilizes LED light tweaked to send data to a devoted benefi
 A talking robot named Tug has started making adjusts at St. Elizabeth Healthcare's clinic in Fort Thomas, where it conveys medication from the drug store to nursing stations. 
 John Giordullo, framework head of drug store for St. Elizabeth, expressed that 
 <br>
->"The Tug robot permits our drug store staff to zero in soundly on the clinical and patient-focused pieces of their positions instead of the undertaking of conveying prescriptions through the emergency clinic,"
+>"The Tug robot permits our drug store staff to zero in soundly on the clinical and patient-focused pieces of their positions instead of the undertaking of conveying prescriptions ...through the emergency clinic,"<
 <br>
 A product framework tracks prescription conveyance from the drug store. With the utilization of Li-Fi, conveyance robots can utilize it to open entryways and to call lifts, empowering him to arrive at all of the patient units in the clinic. 
 Li-Fi based voice-controlled robots are gradually presented in businesses. These robots are utilized to stay away from any mishaps that happened due to laborers botches. The voice-controlled robot is one of them. By utilizing this robot, laborers can handle the developments of the robot. The directions of this administrator are sent toward robot through Li-Fi innovation as such careful robots can likewise be carried out. 
