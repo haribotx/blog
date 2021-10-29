@@ -4,8 +4,9 @@ layout: default
 <div class="flex-container">
   {% include header.html %}
   <div class="content wrapper">
+    {% include text.html %}
     {{ content }}
-  {% include text.html %}
+  
   {% include search.html %}
   {% include pagination.html %}
   {% include recent-post.html %}
