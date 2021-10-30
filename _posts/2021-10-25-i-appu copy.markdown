@@ -10,6 +10,7 @@ about-author: hihdhdnndjdkj I am you and u
 author-pic: post-6.jpg
 permalink: /lifi
 published: true
+toc: true
 
 ---
 
